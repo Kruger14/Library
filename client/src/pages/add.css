@@ -1,0 +1,7 @@
+#container {
+    margin: 0 auto;
+    height: 400px;
+    width: 400px;
+    align-items: center;
+    display: grid;
+}
